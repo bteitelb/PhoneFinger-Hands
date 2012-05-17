@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PFHandName</key>
+	<string>Drawn Hand</string>
+	<key>PFHandAuthor</key>
+	<string>Ben Teitelbaum</string>
+	<key>PFHandDescription</key>
+	<string>Illustrations provided by GestureWorks® (www.gestureworks.com)</string>
+	<key>PFHandUpImage</key>
+	<string>drawnhand.png</string>
+	<key>PFHandDownImage</key>
+	<string>drawnhand_down.png</string>
+	<key>PFHandHotspotX</key>
+	<integer>22</integer>
+	<key>PFHandHotspotY</key>
+	<integer>23</integer>
+	<key>PFHandMinScaleFactor</key>
+	<real>0.1</real>
+	<key>PFHandMaxScaleFactor</key>
+	<real>0.9</real>
+</dict>
+</plist>

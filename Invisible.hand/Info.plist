@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PFHandName</key>
+	<string>Invisible</string>
+	<key>PFHandAuthor</key>
+	<string>Ben Teitelbaum</string>
+	<key>PFHandDescription</key>
+	<string>1x1 invisible mouse cursor</string>
+	<key>PFHandUpImage</key>
+	<string>1x1.png</string>
+	<key>PFHandDownImage</key>
+	<string>1x1_down.png</string>
+	<key>PFHandHotspotX</key>
+	<integer>0</integer>
+	<key>PFHandHotspotY</key>
+	<integer>0</integer>
+	<key>PFHandMinScaleFactor</key>
+	<integer>1</integer>
+	<key>PFHandMaxScaleFactor</key>
+	<real>1</real>
+</dict>
+</plist>
